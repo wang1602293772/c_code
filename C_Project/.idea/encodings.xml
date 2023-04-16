@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/4_16/main.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/4_16/二分查找法.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/4_16/字符向中间汇聚.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/4_16/清空输入缓存区.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/4_16/输入密码.c" charset="GBK" />
+  </component>
+</project>

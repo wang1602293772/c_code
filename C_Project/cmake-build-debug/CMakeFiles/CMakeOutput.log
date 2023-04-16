@@ -1,0 +1,33 @@
+The system is: Windows - 10.0.19045 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: D:/vs2022/VC/Tools/MSVC/14.36.32522/bin/Hostx86/x86/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.36.32522 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.36.32522.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/Users/WangJing/CLionProjects/C_Project/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC/CMakeCCompilerId.exe"
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Users/WangJing/CLionProjects/C_Project/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ms1opf
+
+Run Build Command(s):D:/CLion 2023.1/bin/ninja/win/x64/ninja.exe cmTC_5d2bf && [1/2] Building C object CMakeFiles\cmTC_5d2bf.dir\CMakeCCompilerABI.c.obj
+[2/2] Linking C executable cmTC_5d2bf.exe
+
+
+
